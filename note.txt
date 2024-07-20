@@ -33,6 +33,9 @@ git merge login
 ..........giải quyết conflict code: xảy ra khi merge và pull.............
 tùy trường hợp xảy ra  sẽ có option phù hợp nhất (incomming, curent, keep both)
 
+..............fix conflict...................
+theo truong hop ma minh chon option khac nhau
+
 1.54.12
 
 
