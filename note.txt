@@ -1,5 +1,13 @@
 đẩy code từ local lên remote
 
+
+.....................đẩy lần đầu (trên git hub chưa có nhánh master)...........................
 git add -A
 git commit -m " create home page html "
 git push -u origin master
+
+
+....................dẩy lần 2 trở đi .............................
+git add -A
+git commit -m " 2nd times of pushing "
+git push
