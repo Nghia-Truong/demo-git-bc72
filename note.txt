@@ -20,6 +20,8 @@ vd:  git checkout -b login
 ...........chuyển nhánh .............................
 git checkout [tên nhánh]
 
+.................đứng nhánh nào thì chỉ pull với push nhánh đó dc thôi..................
+ví dụ đang đứng ở login thì chỉ lưu dc nhánh ở login
 1.54.12
 
 
