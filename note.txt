@@ -30,6 +30,10 @@ git branch
 ................gom*(merge) code từ login về master...................
 git merge login
 
+
+..............fix conflict...................
+theo truong hop ma minh chon option khac nhau
+
 1.54.12
 
 
