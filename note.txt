@@ -16,6 +16,10 @@ git push
 git check out -b [tên nhánh]
 vd:  git checkout -b login
 
+
+...........chuyển nhánh .............................
+git checkout [tên nhánh]
+
 1.54.12
 
 
