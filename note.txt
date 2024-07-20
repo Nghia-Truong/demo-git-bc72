@@ -12,5 +12,12 @@ git add -A
 git commit -m " 2nd times of pushing "
 git push
 
+...................tạo nhánh.......................
+git check out -b [tên nhánh]
+vd:  git checkout -b login
+
+1.54.12
+
+
 ///////ko liên quan nhưng đây là cách làm SSH cho mấy người đã tùng có tài khoản git cũ ///////
 lên gg serch "remove github account"
