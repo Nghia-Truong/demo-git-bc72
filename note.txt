@@ -36,6 +36,8 @@ tùy trường hợp xảy ra  sẽ có option phù hợp nhất (incomming, cur
 ..............fix conflict...................
 theo truong hop ma minh chon option khac nhau
 
+thử 1 số chức năng
+
 1.54.12
 
 
