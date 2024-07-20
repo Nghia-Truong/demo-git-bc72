@@ -14,3 +14,5 @@ git push
 
 ///////ko liên quan nhưng đây là cách làm SSH cho mấy người đã tùng có tài khoản git cũ ///////
 lên gg serch "remove github account"
+
+check thu trc khi merge
