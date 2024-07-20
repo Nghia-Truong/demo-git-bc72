@@ -22,6 +22,14 @@ git checkout [tên nhánh]
 
 .................đứng nhánh nào thì chỉ pull với push nhánh đó dc thôi..................
 ví dụ đang đứng ở login thì chỉ lưu dc nhánh ở login
+
+....................xem các nhánh đang có trong máy......................
+git branch
+
+
+................gom*(merge) code từ login về master...................
+git merge login
+
 1.54.12
 
 
